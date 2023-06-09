@@ -1,0 +1,18 @@
+{
+  "name": "gjs-polyfills",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "GPL3",
+  "dependencies": {
+    "@girs/gio-2.0": "^2.76.1-3.0.4",
+    "@girs/gjs": "^3.0.4",
+    "@girs/glib-2.0": "^2.76.1-3.0.4",
+    "@girs/soup-3.0": "^3.4.2-3.0.4",
+    "event-target-polyfill": "^0.0.3",
+    "headers-polyfill": "^3.1.2",
+    "web-streams-polyfill": "^3.2.1"
+  }
+}

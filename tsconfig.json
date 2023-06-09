@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "types": ["@girs/soup-3.0"],
+    "lib": ["ES2020", "DOM"],
+    "skipLibCheck": true /* Skip type checking of declaration files. */,
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  }
+}
